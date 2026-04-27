@@ -17,15 +17,14 @@ Os dados são exibidos em um dashboard com estética hacker, com foco em educaç
 ---
 
 📷 Preview
-
-🖥️ Tela de carregamento
+      
+      📊 Dashboard
+<p align="center">
+  <img src="Imagens/Dashboard.png" width="300">
+</p>
 
 <p align="center">
-  <img src="imagens/teladecarregamento.png" width="300">
-</p>📊 Dashboard
-
-<p align="center">
-  <img src="imagens/dashboard.png" width="300">
+  <img src="Imagens/Dashboard2.png" width="300">
 </p>
 
 ---
@@ -56,6 +55,7 @@ index.html
 💡 Aprendizados
 
 - Consumo de APIs
+- Técnicas de fingerprinting
 - Manipulação do DOM
 - Responsividade
 - Criação de interfaces interativas
