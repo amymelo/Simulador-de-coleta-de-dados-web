@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Simulador de Coleta de Dados Web</h1><p align="center">
+<h1 align="center">🧠 Demonstração de Fingerprinting e Privacidade na Web</h1><p align="center">
   
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/feito%20com-JavaScript-000?style=for-the-badge&logo=javascript">
